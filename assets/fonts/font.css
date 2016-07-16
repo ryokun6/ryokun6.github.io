@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'univers-web';
+  src: url('UniversNextPro-Bold.eot'); /* IE9 Compat Modes */
+  src: url('UniversNextPro-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('UniversNextPro-Bold.woff') format('woff'), /* Modern Browsers */
+       url('UniversNextPro-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('UniversNextPro-Bold.svg#68cbbbd74881bc96ab9760ed22749853') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'univers-web';
+  src: url('UniversNextPro-Light.eot'); /* IE9 Compat Modes */
+  src: url('UniversNextPro-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('UniversNextPro-Light.woff') format('woff'), /* Modern Browsers */
+       url('UniversNextPro-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('UniversNextPro-Light.svg#60168d388d72f31b2b732f8e5dc0540d') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  200;
+}
+
+@font-face {
+  font-family: 'univers-web';
+  src: url('UniversNextPro-Medium.eot'); /* IE9 Compat Modes */
+  src: url('UniversNextPro-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('UniversNextPro-Medium.woff') format('woff'), /* Modern Browsers */
+       url('UniversNextPro-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('UniversNextPro-Medium.svg#2575b6cde84bee9eba8a5e255ab516a4') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  500;
+}
+
+@font-face {
+  font-family: 'univers-web';
+  src: url('UniversNextPro-Regular.eot'); /* IE9 Compat Modes */
+  src: url('UniversNextPro-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('UniversNextPro-Regular.woff') format('woff'), /* Modern Browsers */
+       url('UniversNextPro-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('UniversNextPro-Regular.svg#4517c9013a5a5dba3471b8e47294dcf0') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
