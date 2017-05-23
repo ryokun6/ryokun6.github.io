@@ -7,9 +7,20 @@
        url('DINRoundWeb-Medium.svg#3ca18426b6cc4821a7ab758054442ac6') format('svg'); /* Legacy iOS */
 
   font-style:   normal;
-  font-weight:  400;
+  font-weight:  700;
 }
 
+@font-face {
+  font-family: 'din-round';
+  src: url('DINRoundWeb-Regular.eot'); /* IE9 Compat Modes */
+  src: url('DINRoundWeb-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('DINRoundWeb-Regular.woff') format('woff'), /* Modern Browsers */
+       url('DINRoundWeb-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('DINRoundWeb-Regular.svg#81c7ffa4fada61c88aba240404e920f2') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
 
 * { box-sizing: border-box; }
 
@@ -20,7 +31,7 @@ html{
 }
 
 body{
-  font-family: 'din-round','Josefin Sans', Arial, "Trebuchet MS", sans-serif;
+  font-family: 'din-round', Arial, "Trebuchet MS", sans-serif;
   background-color: black;
   margin: 0;
   width: 100%;
