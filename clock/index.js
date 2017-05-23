@@ -226,7 +226,7 @@ language['english'] = {
             50: [[3, 5, 7], [3, 9, 10]],
             55: [[2, 6, 9], [3, 9, 10]]
         },
-        incrementHourAt : 29
+        incrementHourAt : 30
     }
 };
 

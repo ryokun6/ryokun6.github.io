@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'DIN Round Web Medium';
+  src: url('DINRoundWeb-Medium.eot'); /* IE9 Compat Modes */
+  src: url('DINRoundWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('DINRoundWeb-Medium.woff') format('woff'), /* Modern Browsers */
+       url('DINRoundWeb-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('DINRoundWeb-Medium.svg#3ca18426b6cc4821a7ab758054442ac6') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+

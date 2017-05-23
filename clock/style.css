@@ -1,4 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+@font-face {
+  font-family: 'din-round';
+  src: url('DINRoundWeb-Medium.eot'); /* IE9 Compat Modes */
+  src: url('DINRoundWeb-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('DINRoundWeb-Medium.woff') format('woff'), /* Modern Browsers */
+       url('DINRoundWeb-Medium.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('DINRoundWeb-Medium.svg#3ca18426b6cc4821a7ab758054442ac6') format('svg'); /* Legacy iOS */
+
+  font-style:   normal;
+  font-weight:  400;
+}
+
 
 * { box-sizing: border-box; }
 
@@ -9,7 +20,7 @@ html{
 }
 
 body{
-  font-family:'Josefin Sans', Arial, "Trebuchet MS", sans-serif;
+  font-family: 'din-round','Josefin Sans', Arial, "Trebuchet MS", sans-serif;
   background-color: black;
   margin: 0;
   width: 100%;
@@ -27,7 +38,7 @@ body{
 #clock{
   position:relative;
   display:block;
-  color:rgba(255,255,255,0.2);
+  color: rgba(255,255,255,0.15);
   background-color: black;
   font-size:30px;
   width:550px;
